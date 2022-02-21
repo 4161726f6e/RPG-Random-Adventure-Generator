@@ -16,33 +16,30 @@ Include the -o argument to include optional plot elements.
 Results are printed to screen by default.
 Include the -j argument to print to JSON instead.
 
-#--------------------------------------
-# Generate the basic plot of the
-# adventure, including:
-#    1) Themes
-#    2) Goals
-#    3) Story Hooks
-#    4) General Settings
-#    5) Specific Settings
-#    6) Allies and Neutrals
-#    7) Master Villains
-#    8) Minor Villains
-#    9) Plots
-#    10) Climaxes
-#--------------------------------------
 
-#--------------------------------------
-# Generate optional plot elements for
-# the adventure, including:
-#
-#    1) Monster Encounters
-#    2) Character Encounters
-#    3) Traps and Deathtraps
-#    4) Special Conditions
-#    5) Red Herrings
-#    6) Omens and Prophecies
-#    7) Moral Quandaries
-#    8) Chases
-#    9) Secret Weakness
-#    10) Cruel Tricks and Complications
-#--------------------------------------
+Generate the basic plot of the
+adventure, including:
+    1) Themes
+    2) Goals
+    3) Story Hooks
+    4) General Settings
+    5) Specific Settings
+    6) Allies and Neutrals
+    7) Master Villains
+    8) Minor Villains
+    9) Plots
+    10) Climaxes
+
+ Generate optional plot elements for
+ the adventure, including:
+
+    1) Monster Encounters
+    2) Character Encounters
+    3) Traps and Deathtraps
+    4) Special Conditions
+    5) Red Herrings
+    6) Omens and Prophecies
+    7) Moral Quandaries
+    8) Chases
+    9) Secret Weakness
+    10) Cruel Tricks and Complications
