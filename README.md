@@ -19,6 +19,7 @@ Include the -j argument to print to JSON instead.
 
 Generate the basic plot of the
 adventure, including:
+
     1) Themes
     2) Goals
     3) Story Hooks
